@@ -1,4 +1,4 @@
-# Finance Bro-ing DApp
+# Finance Trade in Blockchain - dAPP project
 
 ## Project Overview
 Finance Bro-ing is a decentralized application (DApp) built on the Ethereum blockchain that allows users to perform token buying and selling transactions. The application enables users to connect their wallets, view their Ethereum and custom token balances, and execute token trading operations seamlessly.
